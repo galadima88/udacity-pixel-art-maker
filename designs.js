@@ -39,7 +39,3 @@ $(document).ready(function(){
 
 
 
-
-
-
-
